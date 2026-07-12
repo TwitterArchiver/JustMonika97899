@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2024231024675426476",
+    "created_at": "2026-02-19T05:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024348307485839763"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024348307485839763",
+    "in_reply_to_user_id": "1806043502771593216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024231024675426476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽药效好持久 我现在还轻飘飘的、好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2024231024675426476",
+        "created_at": "2026-02-19T05:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024348307485839763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024348307485839763",
+        "in_reply_to_user_id": "1806043502771593216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024231024675426476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽药效好持久 我现在还轻飘飘的、好爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2024231024675426476",
+        "created_at": "2026-02-18T21:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T22:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024231024675426476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024231024675426476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四点三十八吃了30t玉米➕4t150mg的pr。但是我现在还没感觉、我的药效去哪了？我一直在哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

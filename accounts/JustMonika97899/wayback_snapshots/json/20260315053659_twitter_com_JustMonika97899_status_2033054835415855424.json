@@ -1,0 +1,570 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2033054835415855424",
+    "created_at": "2026-03-15T05:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T06:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033054835415855424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 30,
+          "id": "2002989915135770624",
+          "start": 21,
+          "username": "oven_ovo"
+        },
+        {
+          "end": 55,
+          "id": "1621920958788542465",
+          "start": 41,
+          "username": "xiangsaixue23"
+        },
+        {
+          "end": 69,
+          "id": "2030832351656493056",
+          "start": 56,
+          "username": "Suintouhea2t"
+        },
+        {
+          "end": 91,
+          "id": "1899606954676461568",
+          "start": 81,
+          "username": "Felix5Hui"
+        },
+        {
+          "end": 117,
+          "id": "1853870205057064961",
+          "start": 103,
+          "username": "Zhu2838001158"
+        },
+        {
+          "end": 129,
+          "id": "1819554838075883520",
+          "start": 118,
+          "username": "ojo2222c_c"
+        },
+        {
+          "end": 144,
+          "id": "1564990471327215619",
+          "start": 130,
+          "username": "bisco91395061"
+        },
+        {
+          "end": 159,
+          "id": "1977420364524494849",
+          "start": 145,
+          "username": "ellahuang8888"
+        },
+        {
+          "end": 171,
+          "id": "1841649712467935232",
+          "start": 160,
+          "username": "binancc_le"
+        },
+        {
+          "end": 183,
+          "id": "1743104783819657216",
+          "start": 172,
+          "username": "Yun1935021"
+        },
+        {
+          "end": 200,
+          "id": "2013875219392585728",
+          "start": 184,
+          "username": "e57jcetmSs91516"
+        },
+        {
+          "end": 216,
+          "id": "1243590342911410176",
+          "start": 201,
+          "username": "bing2000100830"
+        },
+        {
+          "end": 230,
+          "id": "1743973462165553152",
+          "start": 217,
+          "username": "Liu123694541"
+        },
+        {
+          "end": 240,
+          "id": "1500855672480489475",
+          "start": 231,
+          "username": "Usep_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033054835415855424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "100fo的抽取结果：\n一等奖（1名）\n\n@oven_ovo\n\n二等奖（4名）\n\n@xiangsaixue23\n@Suintouhea2t\n@boboaywyw\n@Felix5Hui\n\n三等奖（10名）\n\n@Zhu2838001158\n@ojo2222c_c\n@bisco91395061\n@ellahuang8888\n@binancc_le\n@Yun1935021\n@e57jcetmSs91516\n@bing2000100830\n@Liu123694541\n@Usep_111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2033054835415855424",
+        "created_at": "2026-03-15T05:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033054835415855424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "2002989915135770624",
+              "start": 21,
+              "username": "oven_ovo"
+            },
+            {
+              "end": 55,
+              "id": "1621920958788542465",
+              "start": 41,
+              "username": "xiangsaixue23"
+            },
+            {
+              "end": 69,
+              "id": "2030832351656493056",
+              "start": 56,
+              "username": "Suintouhea2t"
+            },
+            {
+              "end": 91,
+              "id": "1899606954676461568",
+              "start": 81,
+              "username": "Felix5Hui"
+            },
+            {
+              "end": 117,
+              "id": "1853870205057064961",
+              "start": 103,
+              "username": "Zhu2838001158"
+            },
+            {
+              "end": 129,
+              "id": "1819554838075883520",
+              "start": 118,
+              "username": "ojo2222c_c"
+            },
+            {
+              "end": 144,
+              "id": "1564990471327215619",
+              "start": 130,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 159,
+              "id": "1977420364524494849",
+              "start": 145,
+              "username": "ellahuang8888"
+            },
+            {
+              "end": 171,
+              "id": "1841649712467935232",
+              "start": 160,
+              "username": "binancc_le"
+            },
+            {
+              "end": 183,
+              "id": "1743104783819657216",
+              "start": 172,
+              "username": "Yun1935021"
+            },
+            {
+              "end": 200,
+              "id": "2013875219392585728",
+              "start": 184,
+              "username": "e57jcetmSs91516"
+            },
+            {
+              "end": 216,
+              "id": "1243590342911410176",
+              "start": 201,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 230,
+              "id": "1743973462165553152",
+              "start": 217,
+              "username": "Liu123694541"
+            },
+            {
+              "end": 240,
+              "id": "1500855672480489475",
+              "start": 231,
+              "username": "Usep_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033054835415855424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo的抽取结果：\n一等奖（1名）\n\n@oven_ovo\n\n二等奖（4名）\n\n@xiangsaixue23\n@Suintouhea2t\n@boboaywyw\n@Felix5Hui\n\n三等奖（10名）\n\n@Zhu2838001158\n@ojo2222c_c\n@bisco91395061\n@ellahuang8888\n@binancc_le\n@Yun1935021\n@e57jcetmSs91516\n@bing2000100830\n@Liu123694541\n@Usep_111"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 92,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T06:30:02.000Z",
+        "description": "随便发发，不加v 止步于推，搞h号@yunluoovo 打赏可解锁(互关女宝免费) 欢迎提问：https://t.co/UEESC39f70",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "yunluoovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oven44117",
+                "end": 70,
+                "expanded_url": "https://ngl.link/oven44117",
+                "start": 47,
+                "url": "https://t.co/UEESC39f70"
+              }
+            ]
+          }
+        },
+        "id": "2002989915135770624",
+        "location": "别问加不加v了，非要加520纯绿",
+        "name": "oven",
+        "pinned_tweet_id": "2020034484557738114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003010608430772224/cK2DhhYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 90,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 137
+        },
+        "username": "oven_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T17:17:58.000Z",
+        "description": "",
+        "id": "1621920958788542465",
+        "name": "shizhixiangsheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722322260122583040/k1PJjDxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 190,
+          "like_count": 1891,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3915
+        },
+        "username": "xiangsaixue23",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜叫我醉鸡，moe｜ISFP-T 12女初(´-ω-`)｜同类回fo(._.)",
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe",
+        "pinned_tweet_id": "2030835174783779307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030832911432507392/Em01SCPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 167,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 508
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T23:43:03.000Z",
+        "description": "在校大学生，web3新人，努力撸毛养活自己！加油加油！",
+        "id": "1899606954676461568",
+        "location": "新加坡",
+        "name": "小鱼🐟",
+        "pinned_tweet_id": "2013551105763090877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943945589562945536/FUL9Qhbj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 2593,
+          "like_count": 5067,
+          "listed_count": 2,
+          "media_count": 796,
+          "tweet_count": 11294
+        },
+        "username": "Felix5Hui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-05T18:41:30.000Z",
+        "description": "出yw白丝森莫的…可爱小男娘和俺贴贴！！！！",
+        "id": "1853870205057064961",
+        "location": "北京/杭州",
+        "name": "₍ᐢ..ᐢ₎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853871397011075072/nEge3wVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 210,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 103
+        },
+        "username": "Zhu2838001158",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T02:04:31.000Z",
+        "description": "",
+        "id": "1819554838075883520",
+        "name": "白玫瑰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971199519753969664/ZpE9owob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 2309,
+          "like_count": 3916,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 7831
+        },
+        "username": "ojo2222c_c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 37,
+          "like_count": 3042,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 141
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T17:06:09.000Z",
+        "description": "40多岁宝妈才加入web3 学习撸毛 学习空投 \n\n看看加密市场能不能赚点生活费。",
+        "id": "1977420364524494849",
+        "location": "bnb",
+        "name": "我是Ella",
+        "pinned_tweet_id": "1981206807797518642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978024861097422848/QNHFnTxE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 846,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2960
+        },
+        "username": "ellahuang8888",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T01:21:47.000Z",
+        "description": "",
+        "id": "1841649712467935232",
+        "name": "AA 登川 🐬TermMax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001628393323008002/TiMXDY18_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 2196,
+          "like_count": 3984,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 7755
+        },
+        "username": "binancc_le",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T02:59:09.000Z",
+        "description": "女装小狗 iiii \n我爱年下卡哇1！！！！！\n喜欢jk和lo的女孩子更是萌的钥匙(｡•﹃•｡)\n二次元",
+        "id": "1743104783819657216",
+        "location": "北京/浙江",
+        "name": "Yun",
+        "pinned_tweet_id": "2022333576570867958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023083529798873088/PvAT_39O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 961,
+          "like_count": 2256,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 371
+        },
+        "username": "Yun1935021",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "10｜女初｜身高163 体重43kg 减肥中…（接陪聊🚪52/188/520（不退门）",
+        "id": "2013875219392585728",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030311851687649281/NIhSLEy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 162,
+          "like_count": 8638,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2499
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "在月球",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 623,
+          "like_count": 17754,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 997
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T12:31:10.000Z",
+        "description": "FQ4KEGAA",
+        "id": "1743973462165553152",
+        "name": "Liu123",
+        "pinned_tweet_id": "1857852702690259055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746551248579395584/durtH2zZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 923,
+          "like_count": 1753,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 4297
+        },
+        "username": "Liu123694541",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游",
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 609,
+          "like_count": 2135,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 985
+        },
+        "username": "Usep_111",
+        "verified": false
+      }
+    ]
+  }
+}

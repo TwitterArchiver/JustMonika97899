@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2027053098007679036",
+    "created_at": "2026-02-28T09:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T10:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027681847728345283"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "好美",
+          "probability": 0.7682,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009620713460887553",
+          "start": 0,
+          "username": "HujiaoFen_sad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027681847728345283",
+    "in_reply_to_user_id": "2009620713460887553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027053098007679036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HujiaoFen_sad 好美、、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027053093989515264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGKDJgaAAAc67J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2027053098007679036",
+        "created_at": "2026-02-28T09:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027681847728345283"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "好美",
+              "probability": 0.7682,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009620713460887553",
+              "start": 0,
+              "username": "HujiaoFen_sad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027681847728345283",
+        "in_reply_to_user_id": "2009620713460887553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027053098007679036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HujiaoFen_sad 好美、、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027053093989515264"
+          ]
+        },
+        "author_id": "2009620713460887553",
+        "conversation_id": "2027053098007679036",
+        "created_at": "2026-02-26T16:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027053098007679036"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "男の娘"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "修女"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "百合花"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3eDjS3QsYE",
+              "end": 54,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2027053098007679036/photo/1",
+              "media_key": "3_2027053093989515264",
+              "start": 31,
+              "url": "https://t.co/3eDjS3QsYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027053098007679036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2268,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢这张，再发一遍呢。 #男娘 #男の娘 #修女 #百合花 https://t.co/3eDjS3QsYE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 37,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "无聊……我要看到血流成河\n🚪38 重度抑郁/LGBT友好/男の娘/自伤/平常都会回私信，我是个很温良的小男孩呀请来过我门槛谢谢泥૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "我为你撑起蓝色雨伞",
+        "pinned_tweet_id": "2021651507595379051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017126866835169280/V_t4SvIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 224,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 407
+        },
+        "username": "HujiaoFen_sad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024150772234256384",
+        "3_2024150772225912832",
+        "3_2024150772221677568"
+      ]
+    },
+    "author_id": "1806043502771593216",
+    "conversation_id": "2024150935329788373",
+    "created_at": "2026-02-18T15:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024150935329788373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XCLaZhAvhF",
+          "end": 57,
+          "expanded_url": "https://x.com/JustMonika97899/status/2024150935329788373/photo/1",
+          "media_key": "3_2024150772234256384",
+          "start": 34,
+          "url": "https://t.co/XCLaZhAvhF"
+        },
+        {
+          "display_url": "pic.x.com/XCLaZhAvhF",
+          "end": 57,
+          "expanded_url": "https://x.com/JustMonika97899/status/2024150935329788373/photo/1",
+          "media_key": "3_2024150772225912832",
+          "start": 34,
+          "url": "https://t.co/XCLaZhAvhF"
+        },
+        {
+          "display_url": "pic.x.com/XCLaZhAvhF",
+          "end": 57,
+          "expanded_url": "https://x.com/JustMonika97899/status/2024150935329788373/photo/1",
+          "media_key": "3_2024150772221677568",
+          "start": 34,
+          "url": "https://t.co/XCLaZhAvhF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024150935329788373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放几张好久以前约的稿水一下吧 好像一直都对眼球有种莫名的执念、、？ https://t.co/XCLaZhAvhF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024150935329788373].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024150935329788373",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024150935329788373"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024150772234256384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBc6ZybbAAARMZZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024150772225912832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBc6ZyZbsAAFgT_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2024150772221677568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBc6ZyYbEAAxHqG.jpg",
+        "width": 1000
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

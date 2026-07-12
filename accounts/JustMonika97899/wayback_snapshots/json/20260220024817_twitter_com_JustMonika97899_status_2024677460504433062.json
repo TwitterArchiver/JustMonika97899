@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2024423804131586405",
+    "created_at": "2026-02-20T02:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T03:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024677460504433062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869219648492986368",
+          "start": 0,
+          "username": "btbt673308"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024677460504433062",
+    "in_reply_to_user_id": "1869219648492986368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024503481651122279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btbt673308 已严肃执行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2024423804131586405",
+        "created_at": "2026-02-20T02:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024677460504433062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869219648492986368",
+              "start": 0,
+              "username": "btbt673308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024677460504433062",
+        "in_reply_to_user_id": "1869219648492986368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024503481651122279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btbt673308 已严肃执行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869219648492986368",
+        "conversation_id": "2024423804131586405",
+        "created_at": "2026-02-19T15:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024503481651122279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1806043502771593216",
+              "start": 0,
+              "username": "JustMonika97899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024503481651122279",
+        "in_reply_to_user_id": "1806043502771593216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024423804131586405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JustMonika97899 加个蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T03:14:43.000Z",
+        "description": "",
+        "id": "1869219648492986368",
+        "name": "bt bt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022350993426685952/d19-RPSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 470,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2483
+        },
+        "username": "btbt673308",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2027098267385999559",
+    "created_at": "2026-02-26T19:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027099419540422806"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027099419540422806",
+    "in_reply_to_user_id": "1806043502771593216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027098267385999559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧貌似是错觉 目前还没太起效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2027098267385999559",
+        "created_at": "2026-02-26T19:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027099419540422806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027099419540422806",
+        "in_reply_to_user_id": "1806043502771593216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027098267385999559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧貌似是错觉 目前还没太起效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2027098267385999559",
+        "created_at": "2026-02-26T19:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027098267385999559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027098267385999559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天普瑞起效得好快 下次都先吃普瑞再吃愚昧好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 30,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

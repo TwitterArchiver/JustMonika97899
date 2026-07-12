@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2058066042338050451",
+    "created_at": "2026-05-23T07:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058081707925057881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921107120768118785",
+          "start": 0,
+          "username": "SaotomeShimeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058081707925057881",
+    "in_reply_to_user_id": "1921107120768118785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058066042338050451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaotomeShimeri 抱抱小死目莉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2058066042338050451",
+        "created_at": "2026-05-23T07:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058081707925057881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921107120768118785",
+              "start": 0,
+              "username": "SaotomeShimeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058081707925057881",
+        "in_reply_to_user_id": "1921107120768118785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058066042338050451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaotomeShimeri 抱抱小死目莉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921107120768118785",
+        "conversation_id": "2058066042338050451",
+        "created_at": "2026-05-23T06:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058066042338050451"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "ed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058066042338050451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好的不知道多久没吃饭所以刚刚进食了 意识到自己干了什么于是现在冲进厕所催吐\n我有没有说过我催吐喜欢用牙刷柄 我觉得比管子好用 我下管会很难受但是牙刷柄会好一点 代价是我家现在似了很多个牙刷了（\n#ed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！@Li_fu53036 为你而活 为你而死 为你而幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Li_fu53036"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/3gOJwNrN0A"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 132,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/3gOJwNrN0A",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T07:36:59.000Z",
+        "description": "＝死目莉\n🚫ai/双相/adhd/💊/🎨/🔪🩸/刻板印象entp4w3/喜欢twt的大家且希望所有人能幸福\n当朋友圈发，大量日常/废话/负能黑泥\n稿件相关请私讯",
+        "id": "1921107120768118785",
+        "name": "早乙女死目莉",
+        "pinned_tweet_id": "2056325769236746555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 132,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 356
+        },
+        "username": "SaotomeShimeri",
+        "verified": false
+      }
+    ]
+  }
+}

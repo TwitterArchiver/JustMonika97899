@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2062768630245584961",
+    "created_at": "2026-06-05T05:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062768630245584961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1373651647348449280",
+          "start": 3,
+          "username": "omotiii8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062768630245584961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13241
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062129697434329488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omotiii8: 「この人がいないと生きていけない」\nは依存だけど\n「この人がいない人生を生きたくない」\nは愛だと思うんです。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2062768630245584961",
+        "created_at": "2026-06-05T05:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062768630245584961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1373651647348449280",
+              "start": 3,
+              "username": "omotiii8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062768630245584961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13241
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062129697434329488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @omotiii8: 「この人がいないと生きていけない」\nは依存だけど\n「この人がいない人生を生きたくない」\nは愛だと思うんです。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373651647348449280",
+        "conversation_id": "2062129697434329488",
+        "created_at": "2026-06-03T11:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:09:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062129644854481081",
+          "2062129697434329488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062129697434329488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11622,
+          "impression_count": 2705827,
+          "like_count": 106626,
+          "quote_count": 1922,
+          "reply_count": 181,
+          "retweet_count": 13241
+        },
+        "reply_settings": "everyone",
+        "text": "「この人がいないと生きていけない」\nは依存だけど\n「この人がいない人生を生きたくない」\nは愛だと思うんです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！戒割戒吐中…@Li_fu53036 为你而活 为你而死 为你而幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Li_fu53036"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 155,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T15:05:09.000Z",
+        "description": "\"私も言葉届けたい\"と思いこのアカウント作りました。 誰かの心に届きますように。",
+        "id": "1373651647348449280",
+        "location": "日本",
+        "name": "おもち",
+        "pinned_tweet_id": "1924640616316862563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1373653068680634371/zWpfgWCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30342,
+          "following_count": 7,
+          "like_count": 6538,
+          "listed_count": 48,
+          "media_count": 58,
+          "tweet_count": 4738
+        },
+        "username": "omotiii8",
+        "verified": true
+      }
+    ]
+  }
+}

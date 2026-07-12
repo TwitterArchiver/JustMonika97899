@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058114000060358656"
+      ]
+    },
+    "author_id": "1806043502771593216",
+    "conversation_id": "2058114007597494711",
+    "created_at": "2026-05-23T09:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058114007597494711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yynX6iR6wB",
+          "end": 23,
+          "expanded_url": "https://x.com/JustMonika97899/status/2058114007597494711/photo/1",
+          "media_key": "3_2058114000060358656",
+          "start": 0,
+          "url": "https://t.co/yynX6iR6wB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058114007597494711",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/yynX6iR6wB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058114007597494711].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058114007597494711",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058114007597494711"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058114000060358656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_jx1jbIAA05qN.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！@Li_fu53036 为你而活 为你而死 为你而幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Li_fu53036"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/3gOJwNrN0A"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 133,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/3gOJwNrN0A",
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

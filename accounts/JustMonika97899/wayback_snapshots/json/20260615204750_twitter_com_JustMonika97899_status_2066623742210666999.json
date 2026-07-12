@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2066569864496746882",
+    "created_at": "2026-06-15T20:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066623742210666999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1483087280764071945",
+          "start": 0,
+          "username": "iirin_120917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066623742210666999",
+    "in_reply_to_user_id": "1483087280764071945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066569864496746882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iirin_120917 朱雨辰老睡觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29996,
+        "height": 1280,
+        "media_key": "13_2066569783487926272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066569783487926272/img/FEEaXIUZGBDCjErK.jpg",
+        "public_metrics": {
+          "view_count": 73
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066569783487926272/vid/avc1/320x696/2PdTAeTr0m7jiqX0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066569783487926272/vid/avc1/480x1044/__5Eepsxud-P-dMC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066569783487926272/vid/avc1/588x1280/-N420esbMmqQ6Xa_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066569783487926272/pl/56FAEPfeYG3UmePZ.m3u8"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2066569864496746882",
+        "created_at": "2026-06-15T20:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066623742210666999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1483087280764071945",
+              "start": 0,
+              "username": "iirin_120917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066623742210666999",
+        "in_reply_to_user_id": "1483087280764071945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066569864496746882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iirin_120917 朱雨辰老睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066569783487926272"
+          ]
+        },
+        "author_id": "1483087280764071945",
+        "conversation_id": "2066569864496746882",
+        "created_at": "2026-06-15T17:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066569864496746882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OuKmStFc6U",
+              "end": 36,
+              "expanded_url": "https://x.com/iirin_120917/status/2066569864496746882/video/1",
+              "media_key": "13_2066569783487926272",
+              "start": 13,
+              "url": "https://t.co/OuKmStFc6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066569864496746882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁朱雨辰睡着偷偷听吉他张 https://t.co/OuKmStFc6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！我割我o我吐 新加坡本科休学中。。\n@Li_fu53036 为你而活 为你而死 为你而幸福\n@woaiuai0721 终有一天我们会紧紧相拥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Li_fu53036"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 191,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T14:42:25.000Z",
+        "description": "13.0\n寻回互关\n大号@Shivam3228\n主人@niconekkod\n牛马💊@BhawnaniSamit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "niconekkod"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/SupDiuZTRD"
+              }
+            ]
+          }
+        },
+        "id": "1483087280764071945",
+        "location": "你看看你身后",
+        "name": "Selina",
+        "pinned_tweet_id": "2066414001484136584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066411684496052224/p5_CdLjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 88,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/SupDiuZTRD",
+        "username": "iirin_120917",
+        "verified": false
+      }
+    ]
+  }
+}

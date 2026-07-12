@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2030518908286119936"
+      ]
+    },
+    "author_id": "1806043502771593216",
+    "conversation_id": "2030518909393404356",
+    "created_at": "2026-03-08T05:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030518909393404356"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030518909393404356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "100fo感谢！征集一下各位比较想要在总金额相同的情况下中奖名额多一些（每个中奖者分到的奖金少一点）还是中奖名额少一点（每个中奖者能多分到一点）"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2160,
+        "end_datetime": "2026-03-09T17:40:07.000Z",
+        "id": "2030518908286119936",
+        "options": [
+          {
+            "label": "名额多一点",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "名额少一点",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2030518908286119936"
+          ]
+        },
+        "author_id": "1806043502771593216",
+        "conversation_id": "2030518909393404356",
+        "created_at": "2026-03-08T05:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030518909393404356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030518909393404356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo感谢！征集一下各位比较想要在总金额相同的情况下中奖名额多一些（每个中奖者分到的奖金少一点）还是中奖名额少一点（每个中奖者能多分到一点）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！",
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 81,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 229
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

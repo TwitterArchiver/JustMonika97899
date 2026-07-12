@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2045815515483197646",
+    "created_at": "2026-04-19T10:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045815515483197646"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045815515483197646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好喜欢对象 她跟我分分合合好几次了 其实完全是我的问题 我会因为没有安全感加焦虑提出分手。。我是个很混蛋的人 我说着想要她幸福 又推开她做出伤害她的事情。。一旦进入一段亲密关系我就会变得神智不清。好难过 好难过 我不想再伤害自己爱的人了 可是我好像做不到 我什么都做不好 我搞砸了一切😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2045815515483197646",
+        "created_at": "2026-04-19T10:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045815515483197646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045815515483197646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢对象 她跟我分分合合好几次了 其实完全是我的问题 我会因为没有安全感加焦虑提出分手。。我是个很混蛋的人 我说着想要她幸福 又推开她做出伤害她的事情。。一旦进入一段亲密关系我就会变得神智不清。好难过 好难过 我不想再伤害自己爱的人了 可是我好像做不到 我什么都做不好 我搞砸了一切😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 114,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

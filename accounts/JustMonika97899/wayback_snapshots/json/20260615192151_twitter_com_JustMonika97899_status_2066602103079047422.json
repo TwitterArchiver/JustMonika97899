@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2066582544745971988",
+    "created_at": "2026-06-15T19:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066602103079047422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1483087280764071945",
+          "start": 0,
+          "username": "iirin_120917"
+        },
+        {
+          "end": 25,
+          "id": "1624337198765178881",
+          "start": 14,
+          "username": "niconekkod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066602103079047422",
+    "in_reply_to_user_id": "1483087280764071945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066582544745971988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iirin_120917 @niconekkod 这个雨木木萌我一雷"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10546,
+        "height": 1280,
+        "media_key": "13_2066582482317950977",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066582482317950977/img/MnmgKwwguQYKD5i-.jpg",
+        "public_metrics": {
+          "view_count": 102
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066582482317950977/vid/avc1/320x568/PC8Mn8NfHUstIEwB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066582482317950977/vid/avc1/480x852/RBBMJ23ZDuVRTJ_g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066582482317950977/vid/avc1/720x1280/-1vItVFVyaRyV8Ln.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066582482317950977/pl/UjWFOryW4pLc5M5z.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2066582544745971988",
+        "created_at": "2026-06-15T19:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066602103079047422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1483087280764071945",
+              "start": 0,
+              "username": "iirin_120917"
+            },
+            {
+              "end": 25,
+              "id": "1624337198765178881",
+              "start": 14,
+              "username": "niconekkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066602103079047422",
+        "in_reply_to_user_id": "1483087280764071945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066582544745971988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iirin_120917 @niconekkod 这个雨木木萌我一雷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066582482317950977"
+          ]
+        },
+        "author_id": "1483087280764071945",
+        "conversation_id": "2066582544745971988",
+        "created_at": "2026-06-15T18:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066582544745971988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCPUFfBXWD",
+              "end": 31,
+              "expanded_url": "https://x.com/iirin_120917/status/2066582544745971988/video/1",
+              "media_key": "13_2066582482317950977",
+              "start": 8,
+              "url": "https://t.co/OCPUFfBXWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066582544745971988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 296,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我还要发这个。 https://t.co/OCPUFfBXWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！我割我o我吐 新加坡大学休学中。。\n@Li_fu53036 为你而活 为你而死 为你而幸福\n@woaiuai0721 终有一天我们会紧紧相拥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Li_fu53036"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 191,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T14:42:25.000Z",
+        "description": "13.0\n寻回互关\n大号@Shivam3228\n主人@niconekkod\n牛马💊@BhawnaniSamit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "niconekkod"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/SupDiuZTRD"
+              }
+            ]
+          }
+        },
+        "id": "1483087280764071945",
+        "location": "你看看你身后",
+        "name": "Selina",
+        "pinned_tweet_id": "2066414001484136584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066411684496052224/p5_CdLjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 84,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/SupDiuZTRD",
+        "username": "iirin_120917",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号，我已经被 msk 追杀了，用原来的 id 和头像都会被秒封，我 100fo 的抽奖奖品都给大家买好了的😭\n欢迎互 fo\n永远爱：@iirin_120917",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "iirin_120917"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066193442460602368/1Uf4k10S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 19,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

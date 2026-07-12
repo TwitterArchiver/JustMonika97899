@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2066720129732514048",
+    "created_at": "2026-06-16T08:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066793475752984716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066793475752984716",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066720129732514048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DouBao8964 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066720118563057664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK52_3UasAA2iI3.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2066720129732514048",
+        "created_at": "2026-06-16T08:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066793475752984716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066793475752984716",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066720129732514048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouBao8964 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066720118563057664"
+          ]
+        },
+        "author_id": "1663516164306382852",
+        "conversation_id": "2066720129732514048",
+        "created_at": "2026-06-16T03:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066720129732514048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KuF2os2XA",
+              "end": 35,
+              "expanded_url": "https://x.com/DouBao8964/status/2066720129732514048/photo/1",
+              "media_key": "3_2066720118563057664",
+              "start": 12,
+              "url": "https://t.co/0KuF2os2XA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066720129732514048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11721,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 84,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bb们！今天是我生日！ https://t.co/0KuF2os2XA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！我割我o我吐 新加坡本科休学中。。\n@Li_fu53036 为你而活 为你而死 为你而幸福\n@woaiuai0721 终有一天我们会紧紧相拥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Li_fu53036"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 195,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 小号@callme_doubi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "callme_doubi"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025774560457654272/ojdpVLBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11907,
+          "following_count": 78,
+          "like_count": 14387,
+          "listed_count": 6,
+          "media_count": 374,
+          "tweet_count": 6574
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

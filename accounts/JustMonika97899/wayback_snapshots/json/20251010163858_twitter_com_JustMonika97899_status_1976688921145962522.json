@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "1976688921145962522",
+    "created_at": "2025-10-10T16:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976688921145962522"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1976688921145962522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好神奇。。后悔之前吃了白兔没有割。。我很怕痛 但是今天吃完以后总算敢割多一点了。。至少可以顺着胳膊流下来一点了 但是后天得去工作面试 真的是完了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "1976688921145962522",
+        "created_at": "2025-10-10T16:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976688921145962522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976688921145962522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好神奇。。后悔之前吃了白兔没有割。。我很怕痛 但是今天吃完以后总算敢割多一点了。。至少可以顺着胳膊流下来一点了 但是后天得去工作面试 真的是完了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 98,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

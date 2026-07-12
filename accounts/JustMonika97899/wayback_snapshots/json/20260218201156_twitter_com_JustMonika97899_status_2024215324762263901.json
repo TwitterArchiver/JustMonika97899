@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2024215324762263901",
+    "created_at": "2026-02-18T20:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T21:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024215324762263901"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024215324762263901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "电子烟真的有什么尼古丁浓度吗、、？我还以为这种便宜的跟果味雾化器没区别 结果抽了一会有点晕 不会是上劲了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2024215324762263901",
+        "created_at": "2026-02-18T20:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024215324762263901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024215324762263901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电子烟真的有什么尼古丁浓度吗、、？我还以为这种便宜的跟果味雾化器没区别 结果抽了一会有点晕 不会是上劲了吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

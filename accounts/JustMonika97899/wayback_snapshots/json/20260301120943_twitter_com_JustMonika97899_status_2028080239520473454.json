@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2028080239520473454",
+    "created_at": "2026-03-01T12:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028080239520473454"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028080239520473454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我再搞个抽奖！200fo开抽 一等奖两份 折五盒喜思平pr（80）二等奖五份 折三盒玉米 （30）三等奖十份 折两瓶魔爪（12）特等奖一份 先不告诉你们 反正也是折现w 如果好奇的话我可以偷偷告诉你（）至于为什么100fo不抽 直接跳到200fo 是因为100fo的活动不是抽奖 等满100fo了我会发布活动详情的🥺🌹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2028080239520473454",
+        "created_at": "2026-03-01T12:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028080239520473454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028080239520473454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再搞个抽奖！200fo开抽 一等奖两份 折五盒喜思平pr（80）二等奖五份 折三盒玉米 （30）三等奖十份 折两瓶魔爪（12）特等奖一份 先不告诉你们 反正也是折现w 如果好奇的话我可以偷偷告诉你（）至于为什么100fo不抽 直接跳到200fo 是因为100fo的活动不是抽奖 等满100fo了我会发布活动详情的🥺🌹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！",
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 53,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 147
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

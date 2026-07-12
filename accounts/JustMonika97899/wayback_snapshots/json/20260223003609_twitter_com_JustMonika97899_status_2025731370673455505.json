@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2025730196201206155",
+    "created_at": "2026-02-23T00:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T01:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025731370673455505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530699087133421568",
+          "start": 0,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025731370673455505",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025730196201206155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpicyspacEmk16 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2025730196201206155",
+        "created_at": "2026-02-23T00:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025731370673455505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025731370673455505",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025730196201206155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2025730196201206155",
+        "created_at": "2026-02-23T00:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025730196201206155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025730196201206155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要吃上好佳玉米片🌽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 1390,
+          "like_count": 91906,
+          "listed_count": 5,
+          "media_count": 737,
+          "tweet_count": 9008
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

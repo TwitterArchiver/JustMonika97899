@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2027118853432762654",
+    "created_at": "2026-02-27T19:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T20:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027460363210658203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671821091738886144",
+          "start": 0,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027460363210658203",
+    "in_reply_to_user_id": "1671821091738886144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027118853432762654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_04x_d 抱抱你呀 痛苦不是由伤口的深浅决定的 我一直都这样想 所有人都会有痛苦的时候 割手只是为了发泄情绪 割得浅代表不了什么 痛苦是真实存在的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027118843345371136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHF2Q8aAAAK7An.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2027118853432762654",
+        "created_at": "2026-02-27T19:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027460363210658203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671821091738886144",
+              "start": 0,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027460363210658203",
+        "in_reply_to_user_id": "1671821091738886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027118853432762654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_04x_d 抱抱你呀 痛苦不是由伤口的深浅决定的 我一直都这样想 所有人都会有痛苦的时候 割手只是为了发泄情绪 割得浅代表不了什么 痛苦是真实存在的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027118843345371136"
+          ]
+        },
+        "author_id": "1671821091738886144",
+        "conversation_id": "2027118853432762654",
+        "created_at": "2026-02-26T20:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T21:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027118853432762654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9IB0W884S3",
+              "end": 26,
+              "expanded_url": "https://x.com/_04x_d/status/2027118853432762654/photo/1",
+              "media_key": "3_2027118843345371136",
+              "start": 3,
+              "url": "https://t.co/9IB0W884S3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027118853432762654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5088,
+          "like_count": 328,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "一点 https://t.co/9IB0W884S3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 32,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 47
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251 @_j14q1\n                                                                                          查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DUJ36"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "死体",
+        "pinned_tweet_id": "2015420686177906843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013525475642019840/pScrwFXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 332,
+          "like_count": 10127,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/Ex198DUJ36",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

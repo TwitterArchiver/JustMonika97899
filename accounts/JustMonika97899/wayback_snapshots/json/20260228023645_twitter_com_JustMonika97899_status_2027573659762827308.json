@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027573650317262848"
+      ]
+    },
+    "author_id": "1806043502771593216",
+    "conversation_id": "2027573659762827308",
+    "created_at": "2026-02-28T02:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027573659762827308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ctCASMQeSP",
+          "end": 41,
+          "expanded_url": "https://x.com/JustMonika97899/status/2027573659762827308/photo/1",
+          "media_key": "3_2027573650317262848",
+          "start": 18,
+          "url": "https://t.co/ctCASMQeSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027573659762827308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "例图如下。这是在手背上的 要加钱。 https://t.co/ctCASMQeSP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027573659762827308].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027573659762827308",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027573659762827308"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2027573650317262848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNjfg8aQAAtbGS.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 34,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

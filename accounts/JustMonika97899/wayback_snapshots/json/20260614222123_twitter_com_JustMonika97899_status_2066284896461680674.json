@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066284890304483328"
+      ]
+    },
+    "author_id": "1806043502771593216",
+    "conversation_id": "2066284896461680674",
+    "created_at": "2026-06-14T22:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066284896461680674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1955034744548364289",
+          "start": 23,
+          "username": "li_fu53036"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UcVeo7Di0I",
+          "end": 151,
+          "expanded_url": "https://x.com/JustMonika97899/status/2066284896461680674/photo/1",
+          "media_key": "3_2066284890304483328",
+          "start": 128,
+          "url": "https://t.co/UcVeo7Di0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066284896461680674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的自杀计划是把攒下的所有钱 物品 游戏账号给@li_fu53036 然后吃大量的pr和ym 睡到仇人家的天台外边 顺便拿绳子低位自缢 我收藏了一家质量很好的麻绳 碳酸钡什么的不知道要不要吃 等真的到了那个境地再说 幸运的是我的仇人家的产业离我家非常近。 https://t.co/UcVeo7Di0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066284890304483328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzrKPtbEAAetRP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066284890304483328"
+          ]
+        },
+        "author_id": "1806043502771593216",
+        "conversation_id": "2066284896461680674",
+        "created_at": "2026-06-14T22:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066284896461680674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1955034744548364289",
+              "start": 23,
+              "username": "li_fu53036"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcVeo7Di0I",
+              "end": 151,
+              "expanded_url": "https://x.com/JustMonika97899/status/2066284896461680674/photo/1",
+              "media_key": "3_2066284890304483328",
+              "start": 128,
+              "url": "https://t.co/UcVeo7Di0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066284896461680674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的自杀计划是把攒下的所有钱 物品 游戏账号给@li_fu53036 然后吃大量的pr和ym 睡到仇人家的天台外边 顺便拿绳子低位自缢 我收藏了一家质量很好的麻绳 碳酸钡什么的不知道要不要吃 等真的到了那个境地再说 幸运的是我的仇人家的产业离我家非常近。 https://t.co/UcVeo7Di0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！戒割戒吐中…新加坡大学休学中。。\n@Li_fu53036 为你而活 为你而死 为你而幸福\n@woaiuai0721 有一天我们会紧紧相拥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "Li_fu53036"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 184,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T22:33:56.000Z",
+        "description": "The inverted cross of fate\n\nMy dear@JustMonika97899",
+        "id": "1955034744548364289",
+        "name": "泯诟",
+        "pinned_tweet_id": "2048772384967340150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048763819586187265/QjFw_M_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "li_fu53036",
+        "verified": false
+      }
+    ]
+  }
+}

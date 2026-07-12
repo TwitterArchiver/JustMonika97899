@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1962215006197760028",
+    "created_at": "2025-08-31T18:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T19:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962215006197760028"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "哔咔漫画app"
+        },
+        {
+          "end": 95,
+          "start": 90,
+          "tag": "哔咔漫画"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "哔咔"
+        },
+        {
+          "end": 107,
+          "start": 100,
+          "tag": "哔咔漫画软件"
+        }
+      ],
+      "urls": [
+        {
+          "description": "嗶咔漫畫提供高清漫畫資源，分類齊全，每日更新，讓你輕鬆暢享漫畫世界！",
+          "display_url": "2024.b-k.top",
+          "end": 77,
+          "expanded_url": "http://2024.b-k.top",
+          "images": [
+            {
+              "height": 128,
+              "url": "https://pbs.twimg.com/news_img/1960119278608269312/dYaUpDTV?format=png&name=orig",
+              "width": 128
+            },
+            {
+              "height": 128,
+              "url": "https://pbs.twimg.com/news_img/1960119278608269312/dYaUpDTV?format=png&name=150x150",
+              "width": 128
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "嗶咔漫畫 - 免費在線漫畫，紳士專屬",
+          "unwound_url": "https://2024.b-k.top/",
+          "url": "https://t.co/AeJsmI8vc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962215006197760028",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#哔咔漫画app[超话]# 大陸任何平臺（公衆號、抖音、快手）的嗶咔都是假的，請幫助我們舉報！哔咔官网:  https://t.co/AeJsmI8vc9 #哔咔漫画# #哔咔# #哔咔漫画 #哔咔 #哔咔漫画软件[超话]# [最好再配張圖]"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1962215006197760028",
+        "created_at": "2025-08-31T18:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T19:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962215006197760028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "哔咔漫画app"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "哔咔漫画"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "哔咔"
+            },
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "哔咔漫画软件"
+            }
+          ],
+          "urls": [
+            {
+              "description": "嗶咔漫畫提供高清漫畫資源，分類齊全，每日更新，讓你輕鬆暢享漫畫世界！",
+              "display_url": "2024.b-k.top",
+              "end": 77,
+              "expanded_url": "http://2024.b-k.top",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/1960119278608269312/dYaUpDTV?format=png&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/1960119278608269312/dYaUpDTV?format=png&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "嗶咔漫畫 - 免費在線漫畫，紳士專屬",
+              "unwound_url": "https://2024.b-k.top/",
+              "url": "https://t.co/AeJsmI8vc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962215006197760028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#哔咔漫画app[超话]# 大陸任何平臺（公衆號、抖音、快手）的嗶咔都是假的，請幫助我們舉報！哔咔官网:  https://t.co/AeJsmI8vc9 #哔咔漫画# #哔咔# #哔咔漫画 #哔咔 #哔咔漫画软件[超话]# [最好再配張圖]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 83,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

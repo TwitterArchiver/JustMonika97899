@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2065049775066755562",
+    "created_at": "2026-06-12T10:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065376021894111440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975129821111074816",
+          "start": 0,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065376021894111440",
+    "in_reply_to_user_id": "1975129821111074816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065049775066755562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaiuai0721 美金刚耐杀王朱雨辰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065049770453053441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiH0ztbMAEkhkd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2065049775066755562",
+        "created_at": "2026-06-12T10:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065376021894111440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975129821111074816",
+              "start": 0,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065376021894111440",
+        "in_reply_to_user_id": "1975129821111074816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049775066755562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaiuai0721 美金刚耐杀王朱雨辰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065049770453053441"
+          ]
+        },
+        "author_id": "1975129821111074816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065049775066755562",
+        "created_at": "2026-06-11T12:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065049775066755562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fA6tSaqqaq",
+              "end": 37,
+              "expanded_url": "https://x.com/woaiuai0721/status/2065049775066755562/photo/1",
+              "media_key": "3_2065049770453053441",
+              "start": 14,
+              "url": "https://t.co/fA6tSaqqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065049775066755562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "150mg美金刚，真舒服呀 https://t.co/fA6tSaqqaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！戒割戒吐中…\n@Li_fu53036 为你而活 为你而死 为你而幸福\n@woaiuai0721 有一天我们会紧紧相拥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_fu53036"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 180,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "11年初二生，大家可以叫我朱雨辰，想要交朋友，无奈之人，欧弟歌手啥的多多少少沾一点，对人类很友善，只是不要骂我\nip：浙江",
+        "id": "1975129821111074816",
+        "location": "明天",
+        "name": "朱雨辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063519665939513344/boBh1bgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 160,
+          "like_count": 7743,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1883
+        },
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

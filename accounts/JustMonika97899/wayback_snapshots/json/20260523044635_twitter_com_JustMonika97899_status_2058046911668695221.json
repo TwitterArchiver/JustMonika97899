@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2057064731719217346",
+    "created_at": "2026-05-23T04:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058046911668695221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891748269853700096",
+          "start": 0,
+          "username": "Entropy149868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058046911668695221",
+    "in_reply_to_user_id": "1891748269853700096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057064731719217346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy149868 留学生 山高皇帝远偷偷o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2057064731719217346",
+        "created_at": "2026-05-23T04:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058046911668695221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058046911668695221",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057064731719217346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 留学生 山高皇帝远偷偷o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2057064731719217346",
+        "created_at": "2026-05-20T11:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057064731719217346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057064731719217346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11116,
+          "like_count": 157,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "好奇那些可以自由od和吸毒的是什么家庭，家里人不会把你们关精神病院吗，我在精神病院里快疯掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！@Li_fu53036 为你而活 为你而死 为你而幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Li_fu53036"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/3gOJwNrN0A"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 132,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/3gOJwNrN0A",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 446,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 544
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

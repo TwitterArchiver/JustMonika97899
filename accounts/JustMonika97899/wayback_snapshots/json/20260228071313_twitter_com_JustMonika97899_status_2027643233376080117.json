@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2027643233376080117",
+    "created_at": "2026-02-28T07:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T08:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027643233376080117"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027643233376080117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我错了  26颗150mg的pr断断续续吃的 再也不乱加剂量了 最开始一点效果都没有我就一直加 结果现在才稍微清醒一点 我朋友说我一直在说胡话。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2027643233376080117",
+        "created_at": "2026-02-28T07:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T08:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027643233376080117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027643233376080117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我错了  26颗150mg的pr断断续续吃的 再也不乱加剂量了 最开始一点效果都没有我就一直加 结果现在才稍微清醒一点 我朋友说我一直在说胡话。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！",
+        "id": "1806043502771593216",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 74
+        },
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

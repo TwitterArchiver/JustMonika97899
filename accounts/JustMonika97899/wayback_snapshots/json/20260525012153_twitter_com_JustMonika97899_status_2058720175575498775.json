@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2024805135999017151",
+    "created_at": "2026-05-25T01:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058720175575498775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811430427535765504",
+          "start": 0,
+          "username": "xinshijie_1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058720175575498775",
+    "in_reply_to_user_id": "1811430427535765504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024805135999017151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinshijie_1227 宝宝你好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024805089475698688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmNgEGaIAAh66f.jpg",
+        "width": 803
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024805089500971008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmNgEMbwAAJzPP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024805089828110336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmNgFabgAAtxfV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024805089479942144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmNgEHa4AAxUYI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2024805135999017151",
+        "created_at": "2026-05-25T01:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058720175575498775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058720175575498775",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024805135999017151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 宝宝你好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024805089475698688",
+            "3_2024805089500971008",
+            "3_2024805089828110336",
+            "3_2024805089479942144"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024805135999017151",
+        "created_at": "2026-02-20T11:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024805135999017151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4TZxqXOnU",
+              "end": 89,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2024805135999017151/photo/1",
+              "media_key": "3_2024805089475698688",
+              "start": 66,
+              "url": "https://t.co/e4TZxqXOnU"
+            },
+            {
+              "display_url": "pic.x.com/e4TZxqXOnU",
+              "end": 89,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2024805135999017151/photo/1",
+              "media_key": "3_2024805089500971008",
+              "start": 66,
+              "url": "https://t.co/e4TZxqXOnU"
+            },
+            {
+              "display_url": "pic.x.com/e4TZxqXOnU",
+              "end": 89,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2024805135999017151/photo/1",
+              "media_key": "3_2024805089828110336",
+              "start": 66,
+              "url": "https://t.co/e4TZxqXOnU"
+            },
+            {
+              "display_url": "pic.x.com/e4TZxqXOnU",
+              "end": 89,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2024805135999017151/photo/1",
+              "media_key": "3_2024805089479942144",
+              "start": 66,
+              "url": "https://t.co/e4TZxqXOnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024805135999017151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2099,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是『小秋』，也可以叫我馆长\n嗑药 | 自残 | 负能量 | 地雷系 | 御宅族 | 哥特\n同类互fo，欢迎互动，🚪8.88可闲聊 https://t.co/e4TZxqXOnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！@Li_fu53036 为你而活 为你而死 为你而幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "Li_fu53036"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 148,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 互fo请私信 | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 72,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 49,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 228,
+          "like_count": 3901,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 1452
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

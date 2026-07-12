@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2058127815011402097",
+    "created_at": "2026-05-24T03:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058387903034822740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046117898377379840",
+          "start": 0,
+          "username": "kawaii_imai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058387903034822740",
+    "in_reply_to_user_id": "2046117898377379840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058127815011402097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaii_imai 恭喜百fo！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2058127815011402097",
+        "created_at": "2026-05-24T03:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058387903034822740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058387903034822740",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058127815011402097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai 恭喜百fo！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2058127815011402097",
+        "created_at": "2026-05-23T10:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058127815011402097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058127815011402097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3558,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "居然这么快100fo了！剧烈震惊！\n感谢抽奖来了喵(○’ω’○)\n一等奖：白兔*1（折现68）\n二等奖：pr*1（折现20）\n三等奖：玉米片*3（折现6.6）\n虽然仅支持折现（。\n转+关+评参与喵🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！@Li_fu53036 为你而活 为你而死 为你而幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "Li_fu53036"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 144,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 155,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      }
+    ]
+  }
+}

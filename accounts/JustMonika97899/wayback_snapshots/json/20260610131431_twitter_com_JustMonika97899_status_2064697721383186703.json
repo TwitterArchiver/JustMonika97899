@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064627140155645952"
+      ],
+      "media_source_tweet_id": [
+        "2064627144849035753"
+      ]
+    },
+    "author_id": "1806043502771593216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064697721383186703",
+    "created_at": "2026-06-10T13:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064697721383186703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1536716629505359872",
+          "start": 3,
+          "username": "cigsafterdrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nIKYfry79U",
+          "end": 48,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2064627144849035753/photo/1",
+          "media_key": "3_2064627140155645952",
+          "start": 25,
+          "url": "https://t.co/nIKYfry79U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064697721383186703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064627144849035753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cigsafterdrug: 教主…😿😿 https://t.co/nIKYfry79U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2064627140155645952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcHcfKboAA048V.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064627140155645952"
+          ],
+          "media_source_tweet_id": [
+            "2064627144849035753"
+          ]
+        },
+        "author_id": "1806043502771593216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064697721383186703",
+        "created_at": "2026-06-10T13:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064697721383186703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1536716629505359872",
+              "start": 3,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nIKYfry79U",
+              "end": 48,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2064627144849035753/photo/1",
+              "media_key": "3_2064627140155645952",
+              "start": 25,
+              "url": "https://t.co/nIKYfry79U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064697721383186703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064627144849035753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cigsafterdrug: 教主…😿😿 https://t.co/nIKYfry79U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064627140155645952"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064627144849035753",
+        "created_at": "2026-06-10T08:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064627144849035753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nIKYfry79U",
+              "end": 29,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2064627144849035753/photo/1",
+              "media_key": "3_2064627140155645952",
+              "start": 6,
+              "url": "https://t.co/nIKYfry79U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064627144849035753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "教主…😿😿 https://t.co/nIKYfry79U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！戒割戒吐中…\n@Li_fu53036 为你而活 为你而死 为你而幸福\n@woaiuai0721 也许有一天我们会相拥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_fu53036"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 178,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 422,
+          "like_count": 28403,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2529
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2058059485617455285",
+    "created_at": "2026-05-23T05:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058060065698156602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921107120768118785",
+          "start": 0,
+          "username": "SaotomeShimeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058060065698156602",
+    "in_reply_to_user_id": "1921107120768118785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058059485617455285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaotomeShimeri 女孩……🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058059475517681665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-yMFzbsAElnIu.jpg",
+        "width": 945
+      },
+      {
+        "height": 1098,
+        "media_key": "3_2058059475526025216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-yMF1bAAADj1_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2058059485617455285",
+        "created_at": "2026-05-23T05:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058060065698156602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921107120768118785",
+              "start": 0,
+              "username": "SaotomeShimeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058060065698156602",
+        "in_reply_to_user_id": "1921107120768118785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058059485617455285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaotomeShimeri 女孩……🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058059475517681665",
+            "3_2058059475526025216"
+          ]
+        },
+        "author_id": "1921107120768118785",
+        "conversation_id": "2058059485617455285",
+        "created_at": "2026-05-23T05:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058059485617455285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1806043502771593216",
+              "start": 18,
+              "username": "JustMonika97899"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U29IGkX7M1",
+              "end": 96,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2058059485617455285/photo/1",
+              "media_key": "3_2058059475517681665",
+              "start": 73,
+              "url": "https://t.co/U29IGkX7M1"
+            },
+            {
+              "display_url": "pic.x.com/U29IGkX7M1",
+              "end": 96,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2058059485617455285/photo/1",
+              "media_key": "3_2058059475526025216",
+              "start": 73,
+              "url": "https://t.co/U29IGkX7M1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058059485617455285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝收到了一个天使女孩送来的奶茶喵！！@JustMonika97899 我要祝她一辈子幸福一辈子要笑++🥰🥰🥰我好开心 我今天是最幸福的死目莉…… https://t.co/U29IGkX7M1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！@Li_fu53036 为你而活 为你而死 为你而幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Li_fu53036"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/3gOJwNrN0A"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 132,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/3gOJwNrN0A",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T07:36:59.000Z",
+        "description": "＝死目莉\n🚫ai/双相/adhd/💊/🎨/🔪🩸/\n当朋友圈发，大量日常/废话/负能黑泥\n稿件相关请私讯",
+        "id": "1921107120768118785",
+        "name": "早乙女死目莉",
+        "pinned_tweet_id": "2056325769236746555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 128,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 340
+        },
+        "username": "SaotomeShimeri",
+        "verified": false
+      }
+    ]
+  }
+}

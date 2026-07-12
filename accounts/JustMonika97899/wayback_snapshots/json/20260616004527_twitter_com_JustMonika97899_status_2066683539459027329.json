@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2066531335381078262",
+    "created_at": "2026-06-16T00:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066683539459027329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038644495533723648",
+          "start": 0,
+          "username": "staryhrzzz"
+        },
+        {
+          "end": 21,
+          "id": "1540268150406537216",
+          "start": 12,
+          "username": "aabanypp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066683539459027329",
+    "in_reply_to_user_id": "2038644495533723648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066588406411583605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@staryhrzzz @aabanypp 同问！老师可以也推给我一下嘛非常感谢ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2066531335381078262",
+        "created_at": "2026-06-16T00:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066683539459027329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038644495533723648",
+              "start": 0,
+              "username": "staryhrzzz"
+            },
+            {
+              "end": 21,
+              "id": "1540268150406537216",
+              "start": 12,
+              "username": "aabanypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066683539459027329",
+        "in_reply_to_user_id": "2038644495533723648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066588406411583605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@staryhrzzz @aabanypp 同问！老师可以也推给我一下嘛非常感谢ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038644495533723648",
+        "conversation_id": "2066531335381078262",
+        "created_at": "2026-06-15T18:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066588406411583605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540268150406537216",
+              "start": 0,
+              "username": "aabanypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066588406411583605",
+        "in_reply_to_user_id": "1540268150406537216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066560111716507867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aabanypp 朋友推我的一個藥商！走鹹魚發貨的 不過就是價格有點高 你有需要我可以推你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！我割我o我吐 新加坡本科休学中。。\n@Li_fu53036 为你而活 为你而死 为你而幸福\n@woaiuai0721 终有一天我们会紧紧相拥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Li_fu53036"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 193,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:50:40.000Z",
+        "description": "我是kyo 會當日記來發 希望大家都獲得幸福！od｜宅家｜蕾系｜電波系｜infp\n戀人是教主大人💗\n素學家 and電波作愛好者 我吃信徒組",
+        "id": "2038644495533723648",
+        "name": "kyo",
+        "pinned_tweet_id": "2045425240092922059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038645383853666305/UGax8MKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 179,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 289
+        },
+        "username": "staryhrzzz",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T09:38:50.000Z",
+        "description": "一个神秘的人。\n想要互fo我会全部回fo！（只看黄的顺男除外）",
+        "id": "1540268150406537216",
+        "name": "睡个好觉吧！",
+        "pinned_tweet_id": "2065487571975856286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000939898447257606/6w9it0AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 110,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 315
+        },
+        "username": "aabanypp",
+        "verified": false
+      }
+    ]
+  }
+}

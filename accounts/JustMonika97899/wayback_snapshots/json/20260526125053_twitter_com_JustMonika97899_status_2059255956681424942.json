@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2058888745366224908",
+    "created_at": "2026-05-26T12:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059255956681424942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2058879697011019776",
+          "start": 0,
+          "username": "Zarathustra8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059255956681424942",
+    "in_reply_to_user_id": "2058879697011019776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058888745366224908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zarathustra8964 msk太坏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2058888736340140032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKkZbGbYAAXgPr.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2058888745366224908",
+        "created_at": "2026-05-26T12:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059255956681424942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059255956681424942",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058888745366224908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 msk太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058888736340140032"
+          ]
+        },
+        "author_id": "2058879697011019776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058888745366224908",
+        "created_at": "2026-05-25T12:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058888745366224908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4s9jnGKx0r",
+              "end": 58,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2058888745366224908/photo/1",
+              "media_key": "3_2058888736340140032",
+              "start": 35,
+              "url": "https://t.co/4s9jnGKx0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058888745366224908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3040,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我是查拉图斯特拉，我重生了，这一世我要寻回我的互关，求转啊啊啊啊啊啊 https://t.co/4s9jnGKx0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，06.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你！如果想要聊天可以随时私信我，期待能和大家好好相处！@Li_fu53036 为你而活 为你而死 为你而幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "Li_fu53036"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 149,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 79,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      }
+    ]
+  }
+}
