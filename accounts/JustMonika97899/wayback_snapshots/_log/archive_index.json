@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T18:41:55",
+  "last_updated": "2026-07-12T18:42:13",
   "html": {
     "https://web.archive.org/web/20260218155604if_/https://twitter.com/JustMonika97899/status/2024150935329788373": {
       "status": "done",
@@ -3293,9 +3293,9 @@
       "referenced_by": [
         "20260523140741_twitter_com_JustMonika97899_status_2058188118009037273.json"
       ],
-      "last_updated": "2026-07-12T18:23:32",
+      "last_updated": "2026-07-12T18:42:12",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260523140741/https://video.twimg.com/amplify_video/2058169275223875585/vid/avc1/720x1280/0G2zYL2f7HI4wXDl.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2058110980434120705/vid/avc1/540x960/ppC_h-d1zxhg1g-5.mp4": {
       "status": "done",
@@ -3330,9 +3330,9 @@
       "referenced_by": [
         "20260615204750_twitter_com_JustMonika97899_status_2066623742210666999.json"
       ],
-      "last_updated": "2026-07-12T18:23:28",
+      "last_updated": "2026-07-12T18:42:13",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260615204750/https://video.twimg.com/amplify_video/2066569783487926272/vid/avc1/588x1280/-N420esbMmqQ6Xa_.mp4",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
