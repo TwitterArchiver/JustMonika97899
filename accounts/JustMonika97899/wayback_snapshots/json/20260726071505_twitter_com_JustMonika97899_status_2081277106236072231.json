@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2081229713100476879",
+    "created_at": "2026-07-26T07:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081277106236072231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2067535566535815168",
+          "start": 0,
+          "username": "yumumu_msknb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081277106236072231",
+    "in_reply_to_user_id": "2067535566535815168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081229713100476879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumumu_msknb 朱雨辰🥰🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081229713100476879].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081229713100476879",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081229713100476879"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2081229713100476879",
+        "created_at": "2026-07-26T07:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081277106236072231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2067535566535815168",
+              "start": 0,
+              "username": "yumumu_msknb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081277106236072231",
+        "in_reply_to_user_id": "2067535566535815168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081229713100476879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumumu_msknb 朱雨辰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/生理女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！我割我o我吐 新加坡本科休学中。。\n@Li_fu53036 为你而活 为你而死 为你而幸福\n@woaiuai0721 终有一天我们会紧紧相拥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Li_fu53036"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 210,
+          "like_count": 1169,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T09:11:58.000Z",
+        "description": "我很坏不要和我玩\n@Shivam3228是我\n💊@AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 39,
+                "start": 24,
+                "username": "AminoXx_killer"
+              }
+            ]
+          }
+        },
+        "id": "2067535566535815168",
+        "name": "这里只有小伊",
+        "pinned_tweet_id": "2075658366651613615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067536430273048576/Utm49WY9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 79,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "yumumu_msknb",
+        "verified": false
+      }
+    ]
+  }
+}
