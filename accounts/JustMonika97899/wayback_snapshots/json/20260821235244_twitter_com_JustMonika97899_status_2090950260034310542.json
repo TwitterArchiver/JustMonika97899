@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1806043502771593216",
+    "conversation_id": "2090630143807205745",
+    "created_at": "2026-08-21T23:52:44.000Z",
+    "display_text_range": [
+      27,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T00:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090950260034310542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936310868733788160",
+          "start": 0,
+          "username": "fnfrqf1234"
+        },
+        {
+          "end": 26,
+          "id": "1794686636728442880",
+          "start": 12,
+          "username": "official65411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090950260034310542",
+    "in_reply_to_user_id": "1936310868733788160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090682530022261158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnfrqf1234 @official65411 你只是想发这个掉图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2090682527207833600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOYrnxWwAATX3_.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806043502771593216",
+        "conversation_id": "2090630143807205745",
+        "created_at": "2026-08-21T23:52:44.000Z",
+        "display_text_range": [
+          27,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090950260034310542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936310868733788160",
+              "start": 0,
+              "username": "fnfrqf1234"
+            },
+            {
+              "end": 26,
+              "id": "1794686636728442880",
+              "start": 12,
+              "username": "official65411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090950260034310542",
+        "in_reply_to_user_id": "1936310868733788160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090682530022261158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnfrqf1234 @official65411 你只是想发这个掉图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090682527207833600"
+          ]
+        },
+        "author_id": "1936310868733788160",
+        "conversation_id": "2090630143807205745",
+        "created_at": "2026-08-21T06:08:52.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090682530022261158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1794686636728442880",
+              "start": 0,
+              "username": "official65411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hQGLD4oBr",
+              "end": 45,
+              "expanded_url": "https://x.com/fnfrqf1234/status/2090682530022261158/photo/1",
+              "media_key": "3_2090682527207833600",
+              "start": 22,
+              "url": "https://t.co/1hQGLD4oBr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090682530022261158",
+        "in_reply_to_user_id": "1794686636728442880",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090682527207833600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10008,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090630143807205745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@official65411 知晓一切的我 https://t.co/1hQGLD4oBr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/生理女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！我割我o我吐 新加坡本科休学中。。\n@Li_fu53036 为你而活 为你而死 为你而幸福\n@woaiuai0721 终有一天我们会紧紧相拥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Li_fu53036"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "is_identity_verified": false,
+        "location": "祈愿你我幸福之地",
+        "most_recent_tweet_id": "2090950260034310542",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 235,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-21T06:31:11.000Z",
+        "description": "h",
+        "id": "1936310868733788160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090892411861897285",
+        "name": "fnfrqf",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068737407126831104/uHjJQ9zx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 68,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "fnfrqf1234",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-26T11:07:04.000Z",
+        "description": "古振兴：广东梅州人，2015年参与创立迷你玩科技，主导了《迷你世界》的开发和运营，推动其月活用户一度突破1亿。\n\n商业版图：作为公司核心高管，他持股约6.74%，并同时在“迷你学文化”等多项关联企业中担任董事、监事。",
+        "id": "1794686636728442880",
+        "is_identity_verified": false,
+        "location": "迷你玩科技有限公司",
+        "most_recent_tweet_id": "2090943883828232637",
+        "name": "全X最尊重古振兴之人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794686636728442880/1785625442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081988987083010048/x1YwGfmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 487,
+          "like_count": 685,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "official65411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
